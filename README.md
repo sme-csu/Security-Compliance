@@ -20,6 +20,10 @@ Seamlessly integrate applications, data, and processes for your enterprise. Buil
 
   https://microsoftapc.sharepoint.com/teams/PRCCSU/Shared%20Documents/General/SME%20Technology%20Sharing/Nov.20%20AppService%20Integration%20Discussion/Recording.url
 
+- SME Sharing PowerPoint: 
+
+  https://microsoftapc.sharepoint.com/:p:/t/PRCCSU/ERpg94_7vC9EtoL8TCGuYCEBCBTUAankkOUF5mYCTpFa8g?e=6e9GZr
+
 ### 2 Azure AD Discussion
 
 One of the main features of an identity platform is to verify, or *authenticate*, credentials when a user signs in to a device, application, or service. In Azure Active Directory (Azure AD), authentication involves more than just the verification of a username and password. To improve security and reduce the need for help desk assistance.
