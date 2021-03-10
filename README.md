@@ -18,7 +18,7 @@ Seamlessly integrate applications, data, and processes for your enterprise. Buil
 
 - SME Sharing Recording: 
 
-  https://microsoftapc.sharepoint.com/teams/PRCCSU/Shared%20Documents/General/SME%20Technology%20Sharing/Nov.20%20AppService%20Integration%20Discussion/Recording.url
+  https://msit.microsoftstream.com/video/7613a1ff-0400-b9eb-7c93-f1eb2b08cb2a
 
 - SME Sharing PowerPoint: 
 
@@ -30,7 +30,7 @@ One of the main features of an identity platform is to verify, or *authenticate*
 
 - SME Sharing Recording: 
 
-  https://microsoftapc.sharepoint.com/teams/PRCCSU/Shared%20Documents/General/SME%20Technology%20Sharing/Feb.19%20AAD%20discussion/Recording.url
+  https://msit.microsoftstream.com/video/c54ba1ff-0400-b564-652b-f1eb678d3510
 
 - SME Sharing PowerPoint:
 
